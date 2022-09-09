@@ -1,7 +1,7 @@
 import cv2
 import pandas as pd
 
-img_path = r'colorful_image.jpg'
+img_path = r'colored_bird.jpg'
 img = cv2.imread(img_path)
 csv_path = 'colors.csv'
 
