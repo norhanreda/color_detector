@@ -29,6 +29,7 @@
 <hr>  python -m pip install requests
 
 pip install opencv-python
+
 pip install pandas
 
   <h2>How to run  </h2>
